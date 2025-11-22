@@ -1,0 +1,41 @@
+~~NOTOC~~
+<WRAP group>
+
+<WRAP one column>
+===== Устройства и их настройка=====
+  * [[devices:meshtastic:index|Meshtastic]]
+  * [[hardware:vna:lite_vna:index|VNA]]
+
+</WRAP>
+
+<WRAP two column>
+===== Справочники =====
+  * [[directory:dbm_to_mwt|Таблица для перевода дБм в мВт / мВт в дБм]]
+  * [[directory:comparison_of_device_characteristics|Сравнение характеристик устройств LoRa]]
+  * [[directory:power_loss_due_to_SWR_mismatch|Потери мощности при несогласованности КСВ]]
+  * [[directory:connectors:index|Коннекторы]]
+  * [[directory:signal:rssi_sinr_snr|Что такое RSSI, SINR и SNR? Параметры качества сигнала]]
+
+</WRAP>
+
+<WRAP three column>
+===== Как следить за обновлениями в ВиКи? =====
+  * [[https://t.me/fadusru|Изменения ВиКи в ТГ @fadusru]]
+
+</WRAP>
+
+<WRAP four column>
+
+
+</WRAP>
+
+<WRAP five column>
+
+
+</WRAP>
+
+<WRAP six column>
+
+</WRAP>
+
+</WRAP>

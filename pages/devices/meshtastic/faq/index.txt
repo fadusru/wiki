@@ -1,0 +1,6 @@
+  * [[faq:general_description|Что такое Meshtastic?]]
+  * [[faq:communication_range|Meshtastic: дальность связи (868 МГЦ vs 433 МГЦ)]]
+  * [[faq:transmitter_power|FAQ по Meshtastic: мощность передатчиков и рабочий цикл в России]]
+  * [[faq:sends_messages|FAQ: Как Meshtastic отправляет сообщения?]]
+  * [[faq:communication|FAQ: Как происходит «общение» в сети Meshtastic и почему здесь не применить некоторые идеи?]]
+  * [[faq:telegram_groups|Группы Meshtastic в Telegram]]

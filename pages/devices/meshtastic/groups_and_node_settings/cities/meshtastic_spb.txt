@@ -1,0 +1,28 @@
+====== Рекомендации по настройке устройств для Meshtastic в Санкт-Петербурге ======
+
+Первоначальную настройку нод предлагаем делать по [[devices:meshtastic:setting_up_meshtastic_devices|инструкции]].
+
+
+
+
+===== Прошивка устройств =====
+  * "оригинальный" прошиватор от разработчиков Meshtastic: [[https://flasher.meshtastic.org|flasher.meshtastic.org]]
+  * альтернативный прошиватор, есть локализованные сборки с русским языком: https://mrekin.duckdns.org/flasher/
+
+===== Настройки общие для всех устройств =====
+  * прошивка для устройства: 2.0+ с каналом LongFast. В моменте рекомендуется обновляться до V 2.7.13, т.к. в ней много улучшений и оптимизаций по сравнению с предыдущими;
+  * диапазон: 868 МГц (RU), точная частота: 869,075 МГц (2 канал);
+
+===== Настроил устройство, что дальше =====
+  * Есть несколько шлюзов, которые отправляют сообщения из канала "Primary Channel" в ТГ: https://t.me/+ALfOmRiiTo4wNjNi
+  * Карты нод через MQTT:
+    - https://meshtastic.liamcottle.net
+    - http://meshtastic.taubetele.com
+    - https://meshmap.net
+
+==== Другие ВиКи и каналы \ группы ====
+  * FAQ1: https://github.com/ANS-spb/meshtastic-faq/wiki
+  * FAQ2: http://meshtasticfaq.ru
+  * общероссийский чат: @meshtastic_russia
+
+

@@ -1,0 +1,37 @@
+====== Сетевой векторный анализатор (VNA) ======
+
+Все, кто связывает себя с радиолюбительством, через время приходят к необходимости приобретения **сетевого векторного анализатора (vector network analyser, VNA)**.
+
+Любительские VNA берут свое начало с модели NanoVNA. Со временем производители улучшают характеристики данного продукта, внося соответствующие доработки в аппаратную и программную часть продукта.
+
+Автор статьи (перевода) является владельцем устройства LiteVNA 64. Вашему вниманию представлен перевод инструкции к данному устройству. По отзывам других владельцев VNA, интерфейс пользователя VNA незначительно отличается меду продуктами, основные отличия в аппаратной части, которые скрыт от глаз обывателей внутри корпуса.
+
+Источники:
+  * [[https://www.zeenko.tech/litevna|Страница продукта LiteVNA на zeenko.tech]];
+  * [[https://drive.google.com/drive/folders/10lU5xnwmHDnPX98z21ky09N8nb_cEOk4|Инструкция пользователя на Google Disk (LiteVNA_User Guide.pdf)]]
+  * [[https://www.youtube.com/watch?v=29-nTiTyltA&list=PL86cYSFDzJUCdzl5MzglFsxY0KR8P9Lo4|Подборка видео о NanoVNA]]
+  * [[https://disk.yandex.ru/d/107phURit_Eylw|Переводы инструкций на приборы *VNA других авторов]]
+
+==== Содержание ====
+  * [[hardware:vna:lite_vna:Introduction|1. Введение]]
+  * [[hardware:vna:lite_vna:user_interface|2. Пользовательский интерфейс]]
+    * [[hardware:vna:lite_vna:user_interface#главный_экран|Главный экран]]
+    * [[hardware:vna:lite_vna:user_interface#экран_меню |Экран меню]]
+    * [[hardware:vna:lite_vna:user_interface#экран_клавиатуры|Экран клавиатуры]]
+    * [[hardware:vna:lite_vna:user_interface#настройки_устройства|Настройки устройства]]
+  * [[hardware:vna:lite_vna:Performing measurements|3. Выполнение измерений]]
+    * [[hardware:vna:lite_vna:Performing measurements#настройка_диапазона_частот_измерения|Настройка диапазона частот измерения]]
+    * [[hardware:vna:lite_vna:Performing measurements#калибровка|Калибровка]]
+    * [[hardware:vna:lite_vna:Performing measurements#отображение_трассировки|Отображение трассировки]]
+    * [[hardware:vna:lite_vna:Performing measurements#маркеры|Маркеры]]
+    * [[hardware:vna:lite_vna:Performing measurements#операция_во_временной_области|Операция во временной области]]
+    * [[hardware:vna:lite_vna:Performing measurements#вызов_калибровки_и_настроек|Вызов калибровки и настроек]]
+    * [[hardware:vna:lite_vna:Performing measurements#сохранение_данных_измерений_на_карту_microsd|Сохранение данных измерений на карту MicroSD]]
+  * [[hardware:vna:lite_vna:nano_vna_app_software|4. Программное обеспечение NanoVNA-APP]]
+    * [[hardware:vna:lite_vna:nano_vna_app_software#пользовательский_интерфейс|Пользовательский интерфейс]]
+    * [[hardware:vna:lite_vna:nano_vna_app_software#использование_zadig_для_установки_драйвера_usb-cdc|Использование Zadig для установки драйвера USB-CDC]]
+  * [[hardware:vna:lite_vna:appendix_usb_data_interface|5. Приложение: Протокол обмена данными через USB-интерфейс]]
+    * [[hardware:vna:lite_vna:appendix_usb_data_interface#описание_протокола|Описание протокола]]
+    * [[hardware:vna:lite_vna:appendix_usb_data_interface#список_команд_от_хоста_к_устройству|Список команд от хоста к устройству]]
+    * [[hardware:vna:lite_vna:appendix_usb_data_interface#описание_регистров|Описание регистров]]
+    * [[hardware:vna:lite_vna:appendix_usb_data_interface#описание_регистров_режим_dfu|Описание регистров (режим DFU)]]

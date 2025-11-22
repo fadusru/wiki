@@ -1,0 +1,6 @@
+====== Сравнение характеристик устройств LoRa для Meshtastic MeshCore Reticulum ======
+
+Источник: [[https://docs.google.com/spreadsheets/d/1Wx1nAqK9-SL29L_OIpaH-1g1FSrVlBEYx3L0WuJVoZU/edit?clckid=ae98140c&pli=1&gid=0#gid=0|Устройства LoRa для Meshtastic MeshCore Reticulum]]
+
+Спасибо @jein_jeans за подготовку материала.
+Автор предлагает отправить ему в Telegram замечания и предложение либо написать комментарий к ячейкам.
