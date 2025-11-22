@@ -1,0 +1,2 @@
+# wiki
+wiki.fadus.ru
