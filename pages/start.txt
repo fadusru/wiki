@@ -19,13 +19,19 @@
 </WRAP>
 
 <WRAP three column>
-===== Как следить за обновлениями в ВиКи? =====
-  * [[https://t.me/fadusru|Изменения ВиКи в ТГ @fadusru]]
-
+===== Изменения в ВиКи =====
+  * [[https://t.me/fadusru|Публикации в ТГ @fadusru]]
+  * [[directory:edit_wiki_fadusru|Как внести изменения в ВиКи?]]
 </WRAP>
 
 <WRAP four column>
-
+===== Что еще почитать? (другие ВиКи) =====
+  * [[https://meshworks.ru/|meshworks.ru]], [[https://wiki.meshworks.ru/|База знаний  MeshWorks]]
+  * [[https://habr.com/ru/users/NanoVHF/articles/|Статьи Александра Медведь (@NanoVHF) на ХабрХабр]]
+  * [[https://meshtastic.spb.ru|Meshtastic г. Санкт-Петербург (meshtastic.spb.ru)]]
+  * [[http://meshtasticfaq.ru|meshtasticfaq.ru]]
+  * [[https://meshtastic.org.ru|Meshtastic г. Воронеж (meshtastic.org.ru)]]
+  * [[https://github.com/ANS-spb/meshtastic-faq/wiki|github.com/ANS-spb/meshtastic-faq]]
 
 </WRAP>
 

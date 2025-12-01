@@ -25,7 +25,7 @@
     * [[hardware:vna:lite_vna:Performing measurements#отображение_трассировки|Отображение трассировки]]
     * [[hardware:vna:lite_vna:Performing measurements#маркеры|Маркеры]]
     * [[hardware:vna:lite_vna:Performing measurements#операция_во_временной_области|Операция во временной области]]
-    * [[hardware:vna:lite_vna:Performing measurements#вызов_калибровки_и_настроек|Вызов калибровки и настроек]]
+    * [[hardware:vna:lite_vna:Performing measurements#сохранение_сброс_калибровки_и_настроек|Сохранение / сброс калибровки и настроек]]
     * [[hardware:vna:lite_vna:Performing measurements#сохранение_данных_измерений_на_карту_microsd|Сохранение данных измерений на карту MicroSD]]
   * [[hardware:vna:lite_vna:nano_vna_app_software|4. Программное обеспечение NanoVNA-APP]]
     * [[hardware:vna:lite_vna:nano_vna_app_software#пользовательский_интерфейс|Пользовательский интерфейс]]

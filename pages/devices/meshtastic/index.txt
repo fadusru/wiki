@@ -1,11 +1,32 @@
+~~NOTOC~~
+<WRAP group>
+
 ====== Meshtastic ======
+
+<WRAP one column>
+===== Наши настройки ======
   * [[devices:meshtastic:groups_and_node_settings:index|Meshtastic. Группы и настройки нод в городах]]
   * [[devices:meshtastic:setting_up_meshtastic_devices|Настройка устройств Meshtastic]]
   * [[devices:installing_meshtastic_on_ios|Установка Meshtastic на iOS]]
 
+
+</WRAP>
+
+<WRAP two column>
+===== О Meshtastic ======
+  * [[projects:meshtastic:about:overview:mesh_algorithm|Алгоритм широковещательной передачи в Meshtastic]]
+
+
+
+</WRAP>
+
+<WRAP three column>
 ===== FAQ ======
   * [[devices:meshtastic:faq:general_description|Что такое Meshtastic?]]
   * [[devices:meshtastic:faq:communication_range|Meshtastic: дальность связи (868 МГЦ vs 433 МГЦ)]]
   * [[devices:meshtastic:faq:transmitter_power|FAQ по Meshtastic: мощность передатчиков и рабочий цикл в России]]
   * [[devices:meshtastic:faq:sends_messages|FAQ: Как Meshtastic отправляет сообщения?]]
   * [[devices:meshtastic:faq:communication|FAQ: Как происходит «общение» в сети Meshtastic и почему здесь не применить некоторые идеи?]]
+</WRAP>
+
+</WRAP>
